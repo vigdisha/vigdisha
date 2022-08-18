@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Disha Vig</h1>
 <h3 align="center">A passionate MERN stack developer from India.per from India</h3>
-<img align="right" alt = "coding" src="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw">
+<img align="right" alt = "coding" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 
 
