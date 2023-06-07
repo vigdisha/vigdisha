@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vigdisha&show_icons=true&locale=en" alt="vigdisha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigdisha&" alt="vigdisha" /></p>
+<a href="https://app.daily.dev/dishahaha"><img src="https://api.daily.dev/devcards/4f7067187aac428fa1f31c69da077a83.png?r=qxq" width="400" alt="disha vig's Dev Card"/></a>
