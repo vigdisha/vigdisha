@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dishavig1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iPZRNlmrQyP8nYEtPHDPdSV_DhAAK1zn/view?usp=sharing](https://drive.google.com/file/d/1xWpw9voOSvS8_E7RLHUL0wOBunGK0ltz/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iPZRNlmrQyP8nYEtPHDPdSV_DhAAK1zn/view?usp=sharing](https://drive.google.com/file/d/1VfoChYQyxCuSEyc9GW5H24EKv1Ksm7P5/view)
 
 - ⚡ Fun fact **Sarcasm is my only defense**
 
