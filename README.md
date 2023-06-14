@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/coffeebreath18" target="blank"><img align="center" swidth="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="coffeebreath18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/disha vig" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="disha vig" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/disha-vig/" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="disha vig" height="30" width="40" /></a>
 <a href="https://codesandbox.com/vigdisha" target="blank"><img align="center"width="36" height="36" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-green-tal-revivo.png" alt="vigdisha" height="30" width="40" /></a>
 </p>
 
