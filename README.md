@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Disha Vig</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
-<img align="right" alt = "coding" style="height:255px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
+<div id="header" align="center">
+<img width="300px" style="height:200px" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" width="100"/>
+</div>
+<div align="center" id="badges">
+ <a href="www.linkedin.com/in/disha-vig" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://twitter.com/coffeebreath18"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+</div>
 
 
 - 🌱 I’m currently learning **Data analysis with Python**
